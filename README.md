@@ -47,6 +47,11 @@ Through this laboratory work, I gained practical experience in:
 * Ubuntu
 * Bash Shell
 * GitHub
+* ## 📄 Lab Report
+
+👉 **View Full Report**
+
+[Operating System Lab Report](./Operating_System_Lab_Report.pdf)
 
 ## Author
 
