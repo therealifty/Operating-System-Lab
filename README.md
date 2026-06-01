@@ -24,6 +24,7 @@ The purpose of this repository is to showcase hands-on experience with Linux env
 ## Repository Contents
 
 * Complete Operating System Lab Report (PDF)
+* /Operating_System_Lab_Report.pdf.pdf
 * 100+ Linux Commands with Outputs
 * Step-by-Step Practical Exercises
 * Laboratory Documentation
